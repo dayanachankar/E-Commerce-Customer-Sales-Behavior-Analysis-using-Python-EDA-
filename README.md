@@ -3,7 +3,6 @@
 ## 📌 Project Overview
 
 This project analyzes customer purchasing behavior, sales performance, product trends, payment preferences, and delivery performance using the Brazilian E-Commerce (Olist) dataset.
-
 The objective is to transform raw transactional data into meaningful business insights that support data-driven decision-making through Exploratory Data Analysis (EDA).
 
 # 🎯 Business Problem
