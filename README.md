@@ -35,3 +35,17 @@ The company has historical transaction data but lacks insights into customer seg
 - Seaborn
 - Jupyter Notebook
 ---
+
+## 📊 Project Workflow
+
+- Load Libraries
+- Load Datasets
+- Data Understanding
+- Data Quality Assessment
+- Data Cleaning
+- Merge Datasets
+- Post-Merge Data Validation
+- Feature Engineering
+- Exploratory Data Analysis (EDA)
+- Business Insights & Recommendations
+---
