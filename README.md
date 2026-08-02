@@ -1,2 +1,7 @@
 # E-Commerce-Customer-Sales-Behavior-Analysis-using-Python-EDA-
-This project analyzes customer purchasing behavior, sales performance, product trends, payment preferences, and delivery performance using the Brazilian E-Commerce (Olist) dataset.  The objective is to transform raw transactional data into meaningful business insights that support data-driven decision-making through Exploratory Data Analysis (EDA).
+
+## 📌 Project Overview
+
+This project analyzes customer purchasing behavior, sales performance, product trends, payment preferences, and delivery performance using the Brazilian E-Commerce (Olist) dataset.
+
+The project follows a complete data analysis workflow, including data cleaning, data integration, feature engineering, exploratory data analysis (EDA), and business insight generation using Python.
