@@ -1,4 +1,4 @@
-# E-Commerce-Customer-Sales-Behavior-Analysis-using-Python-EDA-
+# E-Commerce Customer Sales Behavior Analysis using-Python (EDA)
 
 ## 📌 Project Overview
 
