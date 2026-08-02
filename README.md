@@ -48,3 +48,32 @@ The company has historical transaction data but lacks insights into customer seg
 - Exploratory Data Analysis (EDA)
 - Business Insights & Recommendations
 
+# ❓ Business Questions
+
+## 1. Sales Performance Analysis
+
+- What is the total revenue generated?
+- How many orders were placed?
+- What is the average order value?
+- How does revenue change over time?
+
+## 2. Product Performance Analysis
+
+- Which product categories generate the highest revenue?
+- Which product categories are the most popular?
+
+## 3. Customer Behavior Analysis
+
+- Which states have the highest number of customers?
+- Which states generate the highest revenue?
+
+## 4. Payment Analysis
+
+- Which payment methods do customers prefer?
+- Which payment methods contribute the highest revenue?
+
+## 5. Delivery Performance Analysis
+
+- How many days does delivery usually take?
+- Are orders delivered early or late?
+
