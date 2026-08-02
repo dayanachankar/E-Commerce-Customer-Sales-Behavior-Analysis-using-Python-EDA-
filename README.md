@@ -24,7 +24,6 @@ The company has historical transaction data but lacks insights into customer seg
 - Payments
 - Product Category Translation
 
----
 
 ## 🛠️ Tools & Technologies
 
@@ -34,7 +33,7 @@ The company has historical transaction data but lacks insights into customer seg
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
----
+
 
 ## 📊 Project Workflow
 
@@ -48,4 +47,4 @@ The company has historical transaction data but lacks insights into customer seg
 - Feature Engineering
 - Exploratory Data Analysis (EDA)
 - Business Insights & Recommendations
----
+
