@@ -81,7 +81,7 @@ The company has historical transaction data but lacks insights into customer seg
 | Average Order Value | **166.60** |
 | Average Delivery Time | **12 Days** |
 
-## 💡 Business Insights
+## 💡 Project Insights
 
 - Generated **16.57M** revenue from **99K+** customer orders.
 - Top product categories contribute the highest share of revenue.
