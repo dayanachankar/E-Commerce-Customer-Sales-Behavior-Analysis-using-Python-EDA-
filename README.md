@@ -48,27 +48,44 @@ The company has historical transaction data but lacks insights into customer seg
 - Exploratory Data Analysis (EDA)
 - Business Insights & Recommendations
 
-# ❓ Business Questions
+## ❓ Business Questions
 
-## 1. Sales Performance Analysis
+### 1. Sales Performance Analysis
 - What is the total revenue generated?
 - How many orders were placed?
 - What is the average order value?
 - How does revenue change over time?
 
-## 2. Product Performance Analysis
+### 2. Product Performance Analysis
 - Which product categories generate the highest revenue?
 - Which product categories are the most popular?
 
-## 3. Customer Behavior Analysis
+### 3. Customer Behavior Analysis
 - Which states have the highest number of customers?
 - Which states generate the highest revenue?
 
-## 4. Payment Analysis
+### 4. Payment Analysis
 - Which payment methods do customers prefer?
 - Which payment methods contribute the highest revenue?
 
-## 5. Delivery Performance Analysis
+### 5. Delivery Performance Analysis
 - How many days does delivery usually take?
 - Are orders delivered early or late?
 
+## 📈 Key Performance Indicators (KPIs)
+
+| KPI | Value |
+|------|--------|
+| Total Revenue | **16.57 Million** |
+| Total Orders | **99,441** |
+| Average Order Value | **166.60** |
+| Average Delivery Time | **12 Days** |
+
+## 💡 Business Insights
+
+- Generated **16.57M** revenue from **99K+** customer orders.
+- Top product categories contribute the highest share of revenue.
+- Customer demand is concentrated in a few states.
+- Credit Card is the most preferred payment method.
+- Average delivery time is around **12 days**.
+- Most orders are delivered on or before the estimated delivery date.
