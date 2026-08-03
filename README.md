@@ -84,6 +84,7 @@ The company has historical transaction data but lacks insights into customer seg
 ## 💡 Project Insights
 
 - Generated **16.57M** revenue from **99K+** customer orders.
+- Average Order Value (AOV) is **166.60** per order.
 - Top product categories contribute the highest share of revenue.
 - Customer demand is concentrated in a few states.
 - Credit Card is the most preferred payment method.
