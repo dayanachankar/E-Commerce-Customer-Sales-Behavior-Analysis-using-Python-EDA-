@@ -90,3 +90,11 @@ The company has historical transaction data but lacks insights into customer seg
 - Credit Card is the most preferred payment method.
 - Average delivery time is around **12 days**.
 - Most orders are delivered on or before the estimated delivery date.
+
+## 📊 Project Visualizations
+
+### 1. Monthly Revenue Trend
+![Monthly Revenue Trend](<img width="802" height="502" alt="image" src="https://github.com/user-attachments/assets/8337c9f0-e009-4944-802e-f7ba42723842" />
+)
+
+
