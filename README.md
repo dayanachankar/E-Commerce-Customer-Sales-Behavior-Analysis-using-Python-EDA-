@@ -96,5 +96,9 @@ The company has historical transaction data but lacks insights into customer seg
 ### 1. Monthly Revenue Trend
 <img width="550" height="302" alt="image" src="https://github.com/user-attachments/assets/769e53dc-2469-4683-b037-6194670073d7" />
 
+### 2. Top Product Categories by Revenue
+<img width="550" height="302" alt="image" src="https://github.com/user-attachments/assets/9ef95a08-84d1-4949-8f68-d39f1d074813" />
+
+
 
 
