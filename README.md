@@ -99,6 +99,18 @@ The company has historical transaction data but lacks insights into customer seg
 ### 2. Top Product Categories by Revenue
 <img width="550" height="302" alt="image" src="https://github.com/user-attachments/assets/9ef95a08-84d1-4949-8f68-d39f1d074813" />
 
+### 3. Customer Distribution by State
+<img width="550" height="302" alt="image" src="https://github.com/user-attachments/assets/0966e258-d20e-40c0-94ee-eafa8d41b5f1" />
+
+### 4. Payment Method Distribution
+<img width="550" height="302" alt="image" src="https://github.com/user-attachments/assets/caf7f1d5-bfe6-48c9-85e3-9ffb2ea2995a" />
+
+### 5. Delivery Performance
+<img width="605" height="381" alt="image" src="https://github.com/user-attachments/assets/dd533bb1-7b70-413a-b542-7949a2b1c6e7" />
+
+
+
+
 
 
 
