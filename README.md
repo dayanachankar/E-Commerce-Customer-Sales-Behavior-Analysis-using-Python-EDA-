@@ -88,19 +88,19 @@ The company has historical transaction data but lacks insights into customer seg
 
 | KPI | Value |
 |------|--------|
-| Total Revenue | **16.57 Million** |
-| Total Orders | **99,441** |
-| Average Order Value | **166.60** |
+| Total Revenue | **15.42 Million** |
+| Total Orders | **96,478** |
+| Average Order Value (AOV) | **159.83** |
 | Average Delivery Time | **12 Days** |
 
 ## 💡 Project Insights
 
-- Generated **16.57M** revenue from **99K+** customer orders.
-- Average Order Value (AOV) is **166.60** per order.
+- Generated **15.42M** revenue from **96K+** customer orders.
+- Average Order Value (AOV) is **159.83** per order.
 - Top product categories contribute the highest share of revenue.
 - Customer demand is concentrated in a few states.
 - Credit Card is the most preferred payment method.
-- Average delivery time is around **12 days**.
+- Average delivery time is approximately **12 days**.
 - Most orders are delivered on or before the estimated delivery date.
 
 ## 📊 Project Visualizations
