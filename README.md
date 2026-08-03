@@ -24,6 +24,16 @@ The company has historical transaction data but lacks insights into customer seg
 - Payments
 - Product Category Translation
 
+### Dataset Summary
+
+| Table | Records |
+|--------|---------:|
+| Orders | 99,441 |
+| Order Items | 112,650 |
+| Customers | 99,441 |
+| Products | 32,951 |
+| Payments | 103,886 |
+| Category Translation | 71 |
 
 ## 🛠️ Tools & Technologies
 
