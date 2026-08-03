@@ -94,6 +94,7 @@ The company has historical transaction data but lacks insights into customer seg
 ## 📊 Project Visualizations
 
 ### 1. Monthly Revenue Trend
-https://github.com/user-attachments/assets/8337c9f0-e009-4944-802e-f7ba42723842
+(<img width="280" height="112" alt="image" src="https://github.com/user-attachments/assets/2dcf04e8-0539-418c-9e65-ab343af083e1" />
+)
 
 
