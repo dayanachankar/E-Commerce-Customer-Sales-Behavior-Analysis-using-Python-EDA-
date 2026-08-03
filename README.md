@@ -1,5 +1,5 @@
 # E-Commerce Customer Sales & Behavior Analysis using-Python (EDA)
-<img width="1536" height="1024" alt="ChatGPT Image Aug 3, 2026, 02_50_46 PM" src="https://github.com/user-attachments/assets/dc27502a-6769-4852-bc2f-ac57bd525dfd" />
+<img width="500" height="300" alt="ChatGPT Image Aug 3, 2026, 02_50_46 PM" src="https://github.com/user-attachments/assets/dc27502a-6769-4852-bc2f-ac57bd525dfd" />
 
 
 ## 📌 Project Overview
